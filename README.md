@@ -1,2 +1,2 @@
 # website
-web dev course
+web dev course repository
